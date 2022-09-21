@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+
+.all{
+    margin:auto;
+    width:20%;
+    border: 5px solid black;
+    padding: 10px;
+}
+#copy{
+    margin:auto;
+    width:20%;
+    padding: 20px;
+    padding-left: 195px; 
+}
+
+#copy2{
+    margin:auto;
+    width:20%;
+    padding: 20px;
+    padding-left: 200px;
+}
+
+#new{
+    margin:auto;
+    padding-left: 35px;
+    color: grey;
+}
+
+#yello{
+    background-color: yellow;
+    border:2px solid black;
+    width: 375px;
+}
+
+#help{
+    margin:auto;
+    padding: 20px;
+    padding-left: 150px;
+}
+
+#box{
+    width: 365px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
